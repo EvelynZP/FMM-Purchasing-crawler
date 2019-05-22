@@ -22,4 +22,4 @@
 ![](https://github.com/Tingjbhappy/FMM-Purchasing-crawler/blob/master/FMM-Purchasing.png)
 
 ### 作者
-作者：谢超
+作者：谢超，张平
