@@ -18,7 +18,7 @@
 <br>    
   
 
-**以下采购数量，金额，单价，差异都为公司采买数据（已脱敏），其余图表都为当日新发地参考菜价**
+**以下采购数量，金额，单价，差异以及采购占比都为公司采买数据（已脱敏），其余图表都为当日新发地参考菜价**
 ![](https://github.com/Tingjbhappy/FMM-Purchasing-crawler/blob/master/FMM-Purchasing.png)
 
 ### 作者
