@@ -18,3 +18,5 @@
 **该项目为每日早8点自动爬取新发地，制作可视化文档，自动邮件发送给相关部门人员**
 ![](https://github.com/Tingjbhappy/FMM-Purchasing-crawler/blob/master/FMM-Purchasing.png)
 
+### 作者
+作者：谢超
